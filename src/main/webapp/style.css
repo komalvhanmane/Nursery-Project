@@ -53,6 +53,8 @@ section{
   background:var(--green);
 }
 
+
+
 .header-1,
 .header-2,
 .header-3{
@@ -703,6 +705,10 @@ section{
   .deal .row .content .count-down .box{
     width:7rem;
   }
+  .intro
+  {
+  padding:10px;
+  }
 
   .deal .row .content .count-down .box h3{
     font-size: 3rem;
@@ -714,3 +720,4 @@ section{
   }
 
 }
+
